@@ -7,13 +7,13 @@ convert_text_file is a description
 
 It defines classes_and_methods
 
-@author:     user_name
+@author:     mullni
 
 @copyright:  2022 organization_name. All rights reserved.
 
 @license:    license
 
-@contact:    user_email
+@contact:    mullni@hotmail.com
 @deffield    updated: Updated
 '''
 
